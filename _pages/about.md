@@ -8,23 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a data scientist applying machine learning tools and causal
-inference techniques to remote sensing data. I am also an affiliated
-researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
-and a research collaborator with the 
-[Research on International Policy Implementation Lab](https://bridgingthegapproject.org/ripil).
+I am a Ph.D. student in the [Seed Science and Technology Research Group](seedbiology.de) 
+at [Royal Holloway, University of London](https://royalholloway.ac.uk). I am studying the effects 
+of soil microbiological communities on the longevity of blackgrass (*Alopecurus myosuroides*) 
+seeds in the soil seedbank. My studies are funded by the 
+[London Interdisciplinary Doctoral Program](https://www.lido-dtp.ac.uk/) with Syngenta supporting 
+as an industry partner.
 
-I earned my Ph.D in Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu) and my
-B.A. in Political Science from [Haverford College](https://www.haverford.edu).
-My academic work has been [published](publications) or is forthcoming in
-*International Studies Quarterly*, *Conflict Management and Peace Science*,
-*Political Science Research and Methods*, and *PS: Political Science & Politics*,
-among other outlets. This [research](research) explores the causes and
-consequences of political violence using a broad variety of methods such as
-latent variable models, geospatial analysis, and big data. While primarily
-focused on civil conflict, it also examines contentious political phenomena
-including terrorism and economic statecraft, and develops new measures of
-institutions in international relations. I have [teaching](teaching) experience
-in both quantitative methodology and international relations, and am a certified
-instructor with [The Carpentries](https://carpentries.org).
+I earned my M.S. in Agronomy from the
+[Pennsylvania State University](https://agsci.psu.edu/) and my B.A. in Environmental Science from 
+[Vassar College](https://www.vassar.edu). I have broad interests in agriculture and international 
+agricultural development.
