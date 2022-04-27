@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Rob Williams"
+locale                   : "en-UK"
+title                    : "Jonathan Binder"
 title_separator          : "-"
-name                     : &name "Rob Williams"
-description              : &description "Postdoc in Political Science"
-url                      : https://jayrobwilliams.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Jonathan Binder"
+description              : &description "PhD Student in Seed Biology"
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jayrobwilliams/jayrobwilliams.github.io"
+repository               : "jonathanmbinder/jonathanmbinder.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : jayrobw
+  username               : &twitter jonathanbinder
 facebook:
   username               :
   app_id                 :
@@ -73,24 +73,24 @@ social:
 
 # Analytics
 analytics:
-  provider               : "goatcounter" # false (default), "google", "google-universal", "custom", "goatcounter"
+  provider               :  # false (default), "google", "google-universal", "custom", "goatcounter"
   google:
     tracking_id          : 
   goatcounter:
-    code		 : jayrobwilliams
+    code		 : 
 
 
 # Site Author
 author:
-  name             : "Rob Williams"
+  name             : "Jonathan Binder"
   avatar           : "profile.png"
-  bio              : "Data Scientist"
-  location         :
+  bio              : "PhD Student"
+  location         : "Guildford, UK"
   employer         :
   pubmed           :
-  orcid            : "http://orcid.org/0000-0001-9259-3883"
-  googlescholar    : "https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
-  email            : "rob.williams@wustl.edu"
+  orcid            : "https://orcid.org/0000-0002-5170-939X"
+  googlescholar    : ""
+  email            : "jonathanmbinder@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,20 +99,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jayrobwilliams"
-  gitlab           : "jayrobwilliams"
+  github           : "jonathanmbinder"
+  gitlab           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "jayrobwilliams"
+  linkedin         : "jonathan-binder"
   pinterest        :
   soundcloud       :
-  stackoverflow    : #"https://stackoverflow.com/users/10912314/jayrobwilliams"
+  stackoverflow    : #""
   steam            :
   tumblr           :
-  twitter          : "jayrobw"
+  twitter          : "jonathanbinder"
   vine             :
   weibo            :
   xing             :
