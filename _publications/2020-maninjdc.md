@@ -1,5 +1,5 @@
 ---
-title: "Winter annual management to increase nutrient recovery and forage production on dairies"
+title: "Manure injection and rye double cropping increased nutrient recovery and forage production"
 collection: publications
 permalink: /publication/2020-maninjdc
 date: 2020-02-12
