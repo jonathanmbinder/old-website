@@ -1,7 +1,7 @@
 ---
 title: "Manure injection and rye double cropping increased nutrient recovery and forage production"
 collection: publications
-permalink: /publication/2020-maninjdc
+permalink: /publications/2020-maninjdc
 date: 2020-02-12
 venue: 'Agronomy Journal'
 paperurl:'/files/pdf/research/winannman.pdf'
