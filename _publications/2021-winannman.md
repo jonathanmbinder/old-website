@@ -1,7 +1,7 @@
 ---
 title: "Winter annual management to increase nutrient recovery and forage production on dairies"
 collection: publications
-permalink: /publications/2021-winannman
+permalink: /publication/2021-winannman
 date: 2021-04-26
 venue: 'Agrosystems, Geosciences & Environment'
 paperurl: '/files/pdf/research/winannman.pdf'
